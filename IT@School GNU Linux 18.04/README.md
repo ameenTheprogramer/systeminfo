@@ -24,3 +24,18 @@ nano system_info.txt
 
 
 # This will show all the steps within a single block of code.
+
+
+
+
+
+
+!![Alt text](assets/Screenshot 2024-10-21 191950.png)
+!![Alt text](assets/Screenshot 2024-10-21 192143.png)
+
+
+
+
+
+
+
