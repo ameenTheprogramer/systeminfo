@@ -8,10 +8,9 @@ bash
 cd ~/Documents
 
 #### 3. Run the script using the following command:
-"./system_info.sh"
-'./system_info.sh'
-{./system_info.sh}
-{"./system_info.sh"}
+
+./system_info.sh
+
 #### If you encounter a "Permission denied" error, you need to make the script executable. Run this command:
 chmod +x system_info.sh
 
@@ -25,15 +24,13 @@ nano system_info.txt
 
 
 
-#### This will show all the steps within a single block of code.
+### This will show all the steps within a single block of code.
 
 
 
 
-
-
-![Alt text](assets/Screenshot 2024-10-21 191950.png)
-![Alt text](assets/Screenshot 2024-10-21 192143.png)
+![Alt text](assets/Screenshot%202024-10-21%20191950.png)
+![Alt text](assets/Screenshot%202024-10-21%20192143.png)
 
 
 
