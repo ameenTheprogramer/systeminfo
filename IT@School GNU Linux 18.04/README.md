@@ -1,6 +1,6 @@
 # Steps to Run the System Info Script
 
-```bash
+bash
 # 1. Open the terminal
 
 # 2. Navigate to the folder where the script (system_info.sh) is located
@@ -30,8 +30,8 @@ nano system_info.txt
 
 
 
-!![Alt text](assets/Screenshot 2024-10-21 191950.png)
-!![Alt text](assets/Screenshot 2024-10-21 192143.png)
+![Alt text](assets/Screenshot 2024-10-21 191950.png)
+![Alt text](assets/Screenshot 2024-10-21 192143.png)
 
 
 
